@@ -1,0 +1,13 @@
+rem *** Generated ***
+ 
+
+game.setGameDisplayMode 1360 768 32 60 
+game.setDetailTexture 5 
+game.setShadows 1000
+game.setEnvironmentMapping 1
+game.setGraphicsQuality 4
+game.setLightmaps 3   
+game.setRenderWhenSpawnMenu 0 
+game.setMenuViewdistance 90000
+game.setEffectsQuality 4
+game.setPerformance 30000  
